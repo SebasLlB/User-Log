@@ -13,4 +13,4 @@ This program can perform multiple actions with its contents, including:
     spaces in the list.
 
 The log will start with no pre-determined name, and all of the names will be deleted whenever the
-program is terminated.
+program is terminated. 
